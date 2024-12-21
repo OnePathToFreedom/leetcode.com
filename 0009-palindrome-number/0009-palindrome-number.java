@@ -6,6 +6,7 @@ class Solution {
             reversed_number = reversed_number * 10 + original_number % 10;
             original_number /= 10;
         }
-        return reversed_number == x;
+        if(reversed_number == x) return true;
+        return false;
     }
 }

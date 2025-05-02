@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OnePathToFreedom/leetcode.com/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/OnePathToFreedom/leetcode.com/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/OnePathToFreedom/leetcode.com/tree/master/0066-plus-one) |
 | [2561-number-of-distinct-averages](https://github.com/OnePathToFreedom/leetcode.com/tree/master/2561-number-of-distinct-averages) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/OnePathToFreedom/leetcode.com/tree/master/0027-remove-element) |
 | [2561-number-of-distinct-averages](https://github.com/OnePathToFreedom/leetcode.com/tree/master/2561-number-of-distinct-averages) |
 ## Sorting
 |  |
